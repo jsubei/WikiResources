@@ -1,0 +1,23 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:ical="http://www.w3.org/2002/12/cal/ical/"
+    xmlns:ecoscope="http://www.ecoscope.org/ontologies/resources_def/">
+  <ecoscope:indicator rdf:about="http://ecoscope.org/indicatorI3">
+    <dc:subject rdf:resource="http://www.ecoscope.org/ontologies/ecosystems/thunnus_albacares"/>
+    <dc:description>Thunnus albacares catches by gear type and by month on 2000</dc:description>
+    <dc:subject>Longline</dc:subject>
+    <dc:subject>Unclass. art. Atl. O.</dc:subject>
+    <dc:subject>Unclass. art. Indian O.</dc:subject>
+    <dc:description>Captures de Thunnus albacares par mois et par type d'engin pour l'année 2000</dc:description>
+    <dct:spatial>POLYGON((-180 -90,-180 90,180 90,180 -90,-180 -90))</dct:spatial>
+    <dc:subject>Baitboat</dc:subject>
+    <dc:subject>Gillnet</dc:subject>
+    <dc:subject>Purse seine</dc:subject>
+    <dc:title>IRD Atlas thonier : indicateur #3 - captures par espèces pour une année donnée par mois et par type d'engin</dc:title>
+    <ical:dtstart>2000</ical:dtstart>
+    <dc:title>IRD Tuna Atlas: indicator #3 - catches by species for a given year by gear type and by month</dc:title>
+    <ical:dtend>2000</ical:dtend>
+  </ecoscope:indicator>
+</rdf:RDF>
