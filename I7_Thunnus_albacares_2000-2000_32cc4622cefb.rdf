@@ -1,0 +1,17 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:ical="http://www.w3.org/2002/12/cal/ical/"
+    xmlns:ecoscope="http://www.ecoscope.org/ontologies/resources_def/">
+  <ecoscope:indicator rdf:about="http://ecoscope.org/indicatorI7">
+    <dct:spatial>POLYGON((-180 -90,-180 90,180 90,180 -90,-180 -90))</dct:spatial>
+    <dc:subject>Thunnus albacares</dc:subject>
+    <ical:dtend>2000</ical:dtend>
+    <ical:dtstart>2000</ical:dtstart>
+    <dc:description>Carte des contributions aux captures de Thunnus albacares</dc:description>
+    <dc:description>Thunnus albacares contribution catches map</dc:description>
+    <dc:title>IRD Atlas thonier : indicateur #7 - Carte des contribution aux captures</dc:title>
+    <dc:title>IRD Tuna Atlas: indicator #7 - Map of contribution of catches</dc:title>
+  </ecoscope:indicator>
+</rdf:RDF>
